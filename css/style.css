@@ -1,0 +1,33 @@
+@charset "utf-8";
+@import "reset.css";
+
+/* body */
+.inner {
+    max-width: 1430px;
+    margin: 0 auto;
+}
+
+/* header */
+header {
+    display: none;
+}
+
+/* section-sns */
+.title {
+    text-align: center;
+    margin: 30px 0;
+}
+.instagram {
+    float: left;
+    width: 100%;
+    padding: 0 15px;
+    margin-bottom: 100px;
+}
+.instagram img {
+    width: 20%;
+    vertical-align: top;
+    display: block;
+    float: left;
+}
+/* footer */
+
